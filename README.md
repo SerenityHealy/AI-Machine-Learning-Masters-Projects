@@ -1,10 +1,10 @@
-# Python School Projects
+# AI & Machine Learning Master's Projects
 
-A collection of Python projects developed during my computer science coursework, focusing on machine learning, computer vision, and algorithm implementation.
+A comprehensive collection of Python projects from my Master's program in AI and Machine Learning, featuring machine learning algorithms, computer vision, data structures, applications, and games.
 
 ## 📚 About
 
-This repository showcases various Python programming projects I've completed as part of my academic studies. The projects demonstrate practical applications of machine learning algorithms, computer vision techniques, and problem-solving with AI search algorithms.
+This repository showcases Python programming projects completed throughout my Master's program. The projects span multiple areas including machine learning, computer vision, data structures & algorithms, practical applications, game development, and object-oriented programming fundamentals.
 
 ## 🗂️ Project Categories
 
@@ -70,7 +70,7 @@ Simple OpenCV image viewer and file operations.
   - Error handling for missing files
 - **Technologies:** OpenCV, Python
 
-### Algorithms
+### Algorithms & AI
 
 #### 7. Elevator Rescue Problem
 AI search problem solver using greedy best-first search.
@@ -81,6 +81,93 @@ AI search problem solver using greedy best-first search.
   - Heuristic-based pathfinding
   - Dynamic action generation
 - **Technologies:** simpleai
+
+### Applications
+
+#### 8. ATM Machine Simulator
+Interactive banking system with authentication and transactions.
+- **Location:** `applications/atm-machine/`
+- **Features:**
+  - PIN authentication with attempt limits
+  - Withdrawal and deposit operations
+  - Balance tracking and validation
+  - Error handling and input validation
+- **Technologies:** Python
+
+#### 9. Shopping List Application
+Comprehensive grocery management system with price comparison.
+- **Location:** `applications/shopping-list/`
+- **Features:**
+  - List creation and management
+  - Saved lists with custom names
+  - Price comparison across 5 major stores
+  - Multi-screen navigation
+- **Technologies:** Python
+
+#### 10. Pothole Tracking System
+Municipal pothole management and repair tracking system.
+- **Location:** `applications/pothole-tracker/`
+- **Features:**
+  - Multi-actor system (Citizen, System, Repair Crew)
+  - Use case documentation
+  - Interactive menu interface
+  - Workflow demonstration
+- **Technologies:** Python
+
+### Data Structures & Algorithms
+
+#### 11. Linear Search Implementation
+Grocery search tool demonstrating linear search algorithm.
+- **Location:** `data-structures-algorithms/linear-search/`
+- **Features:**
+  - Linear search from scratch
+  - Case-insensitive matching
+  - Interactive search interface
+  - 54-item grocery database
+- **Technologies:** Python
+
+#### 12. Hash Table Implementation
+Custom hash table for social media recommendations.
+- **Location:** `data-structures-algorithms/hash-table/`
+- **Features:**
+  - Hash table built from scratch
+  - Collision handling via chaining
+  - CRUD operations (Insert, Get, Delete)
+  - User recommendation storage
+- **Technologies:** Python
+
+#### 13. Algorithm Exercises
+Collection of algorithm implementation exercises.
+- **Location:** `data-structures-algorithms/algorithm-exercises/`
+- **Features:**
+  - Multiple algorithm modules
+  - Problem-solving exercises
+  - Code optimization techniques
+- **Technologies:** Python
+
+### Games
+
+#### 14. High-Low Card Game
+Interactive card guessing game with score tracking.
+- **Location:** `games/high-low-card-game/`
+- **Features:**
+  - 52-card deck simulation
+  - Random shuffling
+  - Score tracking
+  - Face card display
+- **Technologies:** Python
+
+### Foundations
+
+#### 15. Object-Oriented Programming Demonstrations
+Educational programs showcasing OOP concepts.
+- **Location:** `foundations/oop-demonstrations/`
+- **Features:**
+  - Class and object demonstrations
+  - Software engineer traits program
+  - Encapsulation examples
+  - Method and attribute usage
+- **Technologies:** Python
 
 ## 🚀 Getting Started
 
@@ -117,11 +204,22 @@ Common dependencies across projects:
 - **Pillow** - Image processing
 - **simpleai** - AI search algorithms
 
+## 📊 Repository Statistics
+
+- **Total Projects**: 22 programs across 15 categories
+- **Programming Language**: Python 3
+- **Lines of Code**: 2,300+
+- **Documentation**: Comprehensive README for each project
+- **Categories**: 6 main areas (ML, CV, Data Structures, Applications, Games, Foundations)
+
 ## 🎓 Course Information
 
-These projects were developed as part of coursework in:
+These projects were developed as part of Master's program coursework in:
 - **CSC525** - Principles of Machine Learning
 - Computer Vision fundamentals
+- Data Structures & Algorithms
+- Software Engineering
+- Application Development
 - Algorithm design and analysis
 
 ## 📝 License
